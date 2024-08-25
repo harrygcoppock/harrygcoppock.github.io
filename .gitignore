@@ -1,2 +1,5 @@
 _site/
 .DS_Store
+.env
+logs/
+__pycache__/
