@@ -61,7 +61,7 @@ Hey, welcome to my website 🌱
 
 I am an AI researcher passionate about ensuring AI benefits humanity. To achieve this I work on a broad range of challenges including AI evaluation, development of robust AI capabilities, and reform within Government.
 
-Currently, I am a Research Scientist at the [UK AI Security Institute (AISI)](#aisi), where I was the first technical hire. I am also a [10 Downing Street Fellow](#fellow) where I advise on and lead AI projects addressing Prime Minister priority objectives. Along with this, I am a [Visiting Lecturer at Imperial College London](#imperial) where for one semester a year I teach the Deep Learning course.
+Currently, I am a Research Scientist at the [UK AI Security Institute (AISI)](#aisi), where I was the first technical hire. I am also a [10 Downing Street Fellow](#fellow) where I advise on and lead AI projects addressing Prime Minister priority objectives. Along with this, I am an [Honorary Lecturer at Imperial College London](#imperial) where for one semester a year I teach the Deep Learning course.
 
 Previously, I completed a PhD in AI at Imperial College London and spent time on secondment at [The Alan Turing Institute](https://www.turing.ac.uk/). During my doctorate, I founded Maat, an AI due diligence consultancy that assessed the AI capabilities of companies involved in M&A and VC transactions, working with high-profile clients including Pfizer. Prior to this, I completed an MSc in AI at Imperial College London, following an undergraduate degree in Materials Science and Engineering.
 
@@ -117,7 +117,7 @@ In this Deputy Director role, I work closely with ministers, advising on and lea
 ::: {#imperial .content-section}
 <div class="section-header">
 <img src="images/Imperial_College_London_new_logo.png" class="section-header-img" alt="Imperial College London">
-<span class="section-header-role">Visiting Lecturer</span>
+<span class="section-header-role">Honorary Lecturer</span>
 </div>
 
 ---
